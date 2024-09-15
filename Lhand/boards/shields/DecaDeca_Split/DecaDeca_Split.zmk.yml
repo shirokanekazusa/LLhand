@@ -1,0 +1,11 @@
+file_format: "1"
+id: DecaDeca_Split
+name: DecaDeca_Split
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - DecaDeca_Split_left
+  - DecaDeca_Split_right
