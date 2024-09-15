@@ -1,0 +1,8 @@
+file_format: "1"
+id: DecaDeca_L
+name: DecaDeca_L
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys

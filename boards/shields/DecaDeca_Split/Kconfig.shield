@@ -1,0 +1,5 @@
+config SHIELD_DECADECA_SPLIT_LEFT
+    def_bool $(shields_list_contains,DecaDeca_Split_left)
+
+config SHIELD_DECADECA_SPLIT_RIGHT
+    def_bool $(shields_list_contains,DecaDeca_Split_right)

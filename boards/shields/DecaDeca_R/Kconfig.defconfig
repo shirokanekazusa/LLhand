@@ -1,0 +1,6 @@
+if SHIELD_DECADECA_R
+
+config ZMK_KEYBOARD_NAME
+    default "DecaDeca_R"
+
+endif
